@@ -1,2 +1,2 @@
 # meta-fire-up-the-oven
-Example Hello World BitBake project.
+Example Hello World BitBake layer.
